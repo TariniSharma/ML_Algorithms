@@ -7,7 +7,7 @@ Dataset - [Abalone](https://www.cs.toronto.edu/~delve/data/abalone/desc.html)
 Dataset - IRIS 
 
 ### 3. Feed Forward Fully Connected NN
-Dataset - [Fashion MNIST] (https://www.kaggle.com/datasets/zalando-research/fashionmnist)
+Dataset - [Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
 
 ### 4. Finetuning VGG16
-Dataset - [Fashion MNIST] (https://www.kaggle.com/datasets/zalando-research/fashionmnist)
+Dataset - [Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
